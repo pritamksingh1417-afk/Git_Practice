@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello, world" << endl;
-    cout << "This is a C++14 program." << endl;
+    cout << "Welcome to GitHub!";
     return 0;
 }
