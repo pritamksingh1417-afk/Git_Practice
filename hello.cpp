@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Welcome to feature branch!";
+    cout << "Feature login";
     return 0;
 }
